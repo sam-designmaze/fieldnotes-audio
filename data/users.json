@@ -1,1 +1,6 @@
-{}
+{
+  "testtoken123": {
+    "email": "you@example.com",
+    "created_at": "2025-10-07T00:00:00Z"
+  }
+}
