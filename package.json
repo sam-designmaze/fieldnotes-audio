@@ -1,8 +1,12 @@
 {
   "name": "fieldnotes-audio",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
-    "stripe": "^14.0.0",
-    "nodemailer": "^6.9.10"
+    "nodemailer": "^6.9.10",
+    "raw-body": "^2.4.1",
+    "stripe": "^14.0.0"
   }
 }
